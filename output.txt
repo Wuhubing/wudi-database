@@ -8,25 +8,25 @@ Shipping Clerk
 Stock Clerk
 q2:
 Shipping|7
-Sales|6
 Purchasing|6
+Sales|6
 Finance|6
 IT|5
 Executive|3
 Marketing|2
 Accounting|2
-Public Relations|1
-Human Resources|1
 Administration|1
+Human Resources|1
+Public Relations|1
 q3:
-Accounting|12500.0
 Executive|33333.3333333333
-Finance|10166.6666666667
-Human Resources|9000.0
-IT|10000.0
+Sales|14666.6666666667
+Accounting|12500.0
 Marketing|12000.0
 Public Relations|10500.0
-Sales|14666.6666666667
+Finance|10166.6666666667
+IT|10000.0
+Human Resources|9000.0
 q4:
 7
 q5:
@@ -41,9 +41,9 @@ United Kingdom
 q6:
 8
 q7:
-Neena Kochhar|Lex De Haan
-Lex De Haan|Neena Kochhar
 John Russell|Karen Partners
+Lex De Haan|Neena Kochhar
+Neena Kochhar|Lex De Haan
 q8:
 114|2500.0
 q9:
